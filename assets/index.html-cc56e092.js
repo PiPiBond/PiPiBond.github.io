@@ -1,0 +1,1 @@
+import{_ as n,X as o,Y as a,Z as e,a0 as s,a2 as l,E as r}from"./framework-23afdf50.js";const c={},_=e("strong",null,"MySQL8.0安装指南",-1);function i(d,u){const t=r("RouterLink");return o(),a("div",null,[e("p",null,[s(t,{to:"/learning/installMySQL.html"},{default:l(()=>[_]),_:1})])])}const f=n(c,[["render",i],["__file","index.html.vue"]]);export{f as default};
