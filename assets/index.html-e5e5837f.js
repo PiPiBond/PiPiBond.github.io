@@ -1,1 +1,0 @@
-import{_ as t,X as o,Y as n,Z as a,a0 as c,a2 as s,E as r,$ as _}from"./framework-23afdf50.js";const l={};function d(i,u){const e=r("RouterLink");return o(),n("div",null,[a("p",null,[c(e,{to:"/Docs/MySQL/"},{default:s(()=>[_("MySQL 学习")]),_:1})])])}const m=t(l,[["render",d],["__file","index.html.vue"]]);export{m as default};
