@@ -1,1 +1,0 @@
-import{_ as n,X as o,Y as s,Z as e,a0 as a,a1 as c,E as r}from"./framework-696d86b8.js";const l={},_=e("strong",null,"Nginx 开启 https",-1);function i(d,p){const t=r("RouterLink");return o(),s("div",null,[e("p",null,[a(t,{to:"/code-learning/NginxOpenHttps.html"},{default:c(()=>[_]),_:1})])])}const m=n(l,[["render",i],["__file","index.html.vue"]]);export{m as default};
