@@ -1,1 +1,0 @@
-import{_ as t,X as o,Y as a,Z as e,$ as n}from"./framework-696d86b8.js";const r={},s=e("h1",{id:"个人介绍",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#个人介绍","aria-hidden":"true"},"#"),n(" 个人介绍")],-1),c=e("p",null,"这个人很懒，什么都没有留下。",-1),_=[s,c];function d(i,l){return o(),a("div",null,_)}const f=t(r,[["render",d],["__file","intro.html.vue"]]);export{f as default};

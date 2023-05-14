@@ -1,1 +1,0 @@
-import{_ as t,X as n,Y as o,Z as a,a0 as s,a1 as c,E as l,$ as r}from"./framework-696d86b8.js";const _={};function i(d,m){const e=l("RouterLink");return n(),o("div",null,[a("p",null,[s(e,{to:"/learning-docs/mysql/install.html"},{default:c(()=>[r("MySQL 安装")]),_:1})])])}const f=t(_,[["render",i],["__file","index.html.vue"]]);export{f as default};
