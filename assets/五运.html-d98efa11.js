@@ -1,0 +1,1 @@
+import{_ as e,X as t,Y as _,Z as c}from"./framework-696d86b8.js";const o={},s=c("p",null,"五行学说术语。即土运、金运、水运、木运、火运的合称。土、金、水、木、火在地为五行；五行之气运化在天，故称。古人认为自然气候的转变是由于阴阳五运轮转运动、往来不息、周而复始的结果。《素问.天元纪大论》：“论言五运相袭而皆治之，终期之日，周而复始。”",-1),n=[s];function r(a,l){return t(),_("div",null,n)}const f=e(o,[["render",r],["__file","五运.html.vue"]]);export{f as default};

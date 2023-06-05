@@ -1,0 +1,1 @@
+import{_ as e,X as t,Y as _,Z as c}from"./framework-696d86b8.js";const o={},s=c("p",null,"哀痛，伤心。“五志”之一。《灵枢.五邪》：“邪在心，则病心痛喜悲。”",-1),n=[s];function r(a,l){return t(),_("div",null,n)}const f=e(o,[["render",r],["__file","悲.html.vue"]]);export{f as default};

@@ -1,1 +1,0 @@
-import{_ as r,X as t,Y as a,Z as n}from"./framework-696d86b8.js";const o={},s=["src"];function c(e,i){return t(),a("div",null,[n("iframe",{src:e.$withBase("/markmap/TCM.html"),width:"100%",height:"900",frameborder:"0",scrolling:"No",leftmargin:"0",topmargin:"0"},null,8,s)])}const m=r(o,[["render",c],["__file","index.html.vue"]]);export{m as default};

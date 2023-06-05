@@ -1,0 +1,1 @@
+import{_ as e,X as _,Y as t,Z as c}from"./framework-696d86b8.js";const o={},s=c("p",null,"奇恒之腑，是脑、髓、骨、脉、胆、女子胞的总称。它们都是贮藏精气的脏器，似脏非脏，似腑非腑，故称。",-1),n=[s];function r(a,l){return _(),t("div",null,n)}const f=e(o,[["render",r],["__file","奇恒之府.html.vue"]]);export{f as default};

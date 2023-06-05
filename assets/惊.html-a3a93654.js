@@ -1,0 +1,1 @@
+import{_ as t,X as _,Y as o,Z as e}from"./framework-696d86b8.js";const s={},c=e("p",null,"①证名。容易恐惧或无故自惧之证。出《素问.调经论》。又称善恐。《杂病源流犀烛.惊悸悲恐喜怒忧思源流》：“恐者，心肾肝胃病也。”详见善恐条。",-1),n=e("p",null,"②生理名词。七情之一。《素问.阴阳应象大论》指出：肾“在志为恐，恐伤肾。”",-1),l=[c,n];function r(a,d){return _(),o("div",null,l)}const f=t(s,[["render",r],["__file","惊.html.vue"]]);export{f as default};

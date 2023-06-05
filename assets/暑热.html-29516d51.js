@@ -1,0 +1,1 @@
+import{_ as t,X as _,Y as o,Z as e,$ as s}from"./framework-696d86b8.js";const n={},c=e("p",null,[e("strong",null,"暑热"),s("，①病因。即暑邪。")],-1),l=e("p",null,"②证候名。外感暑邪的热证。《叶香岩三时伏气外感篇》：“暑热深入，伏热烦渴。”",-1),r=[c,l];function a(d,i){return _(),o("div",null,r)}const f=t(n,[["render",a],["__file","暑热.html.vue"]]);export{f as default};

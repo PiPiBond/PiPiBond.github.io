@@ -1,0 +1,1 @@
+import{_ as t,X as a,Y as c,Z as e,$ as r}from"./framework-696d86b8.js";const s={},_=e("h2",{id:"✍内容",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#✍内容","aria-hidden":"true"},"#"),r(" ✍内容")],-1),o=[_];function n(d,i){return a(),c("div",null,o)}const l=t(s,[["render",n],["__file","诸毒.html.vue"]]);export{l as default};
